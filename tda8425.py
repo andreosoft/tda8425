@@ -1,6 +1,5 @@
 # -*- coding: utf8 -*-
-# TDA8425 Sond App for Raspberry Pi
-# C version - redhawk 04/04/2014
+# TDA8425 Sound processor for Raspberry Pi
 # Python version version - Andrey Zagorets 27/11/2016
 #
 # This code is provided to help with programming the TDA chip.
